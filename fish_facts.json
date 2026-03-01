@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Clownfish",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg/1200px-Amphiprion_ocellaris_%28Clown_anemonefish%29_by_Nick_Hobgood.jpg",
+    "image": "https://douglasjreece.github.io/fish-facts/_1_clown_fish.jpg",
     "scientificName": "Amphiprioninae",
     "description": "Small, vibrant fish measuring 4-5 inches in length. Features distinctive orange coloration with three white vertical bands edged in black. Possesses a symbiotic relationship with sea anemones, protected by a special mucus coating that prevents stinging.",
     "habitat": "Found in the warm waters of the Pacific and Indian Oceans, particularly around coral reefs. Lives exclusively among sea anemones at depths of 3-45 feet. Prefers shallow lagoons and coastal waters with temperatures between 75-82°F."
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "name": "Blue Tang",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Atlantic_blue_tang_surgeonfish_%28%22Acanthurus_coeruleus%22%29_-13092009a.jpg",
+    "image": "https://douglasjreece.github.io/fish-facts/_2_blue_tang.jpg",
     "scientificName": "Paracanthurus hepatus",
     "description": "Medium-sized surgeonfish reaching 10-12 inches. Distinguished by brilliant royal blue body with black palette markings and bright yellow tail fin. Named for the sharp, scalpel-like spines near the tail used for defense.",
     "habitat": "Inhabits Indo-Pacific coral reefs from East Africa to Japan and Samoa. Typically found at depths of 6-130 feet, preferring reef slopes and channels with strong currents. Feeds on zooplankton and algae along reef edges."
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "name": "Lionfish",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Common_lion_fish_Pterois_volitans.jpg",
+    "image": "https://douglasjreece.github.io/fish-facts/_3_lion_fish.jpg",
     "scientificName": "Pterois volitans",
     "description": "Striking venomous fish growing up to 15 inches long. Features elaborate fan-like pectoral fins and venomous spines on dorsal fins. Displays bold red, white, and brown zebra-striped pattern. Voracious predator with no natural predators in invaded ranges.",
     "habitat": "Native to Indo-Pacific regions but invasive in Caribbean and Atlantic waters. Prefers rocky crevices and coral reefs at depths of 10-175 feet. Adaptable to various marine environments including artificial structures and seagrass beds."
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "name": "Angelfish",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/df/Angel_fish_white.jpg",
+    "image": "https://douglasjreece.github.io/fish-facts/_4_angel_fish.jpg",
     "scientificName": "Pterophyllum scalare",
     "description": "The angelfish is a freshwater cichlid native to the Amazon Basin, known for its tall, triangular body and flowing fins that help it navigate dense vegetation. Its striped, iridescent coloration provides camouflage in sunlit waters. Adapted to warm, slightly acidic environments, angelfish display complex social behavior and attentive parental care, making them both ecologically important and popular in aquariums.",
     "habitat": "Occupies Indo-Pacific coral reefs and rocky areas from the Red Sea to Hawaii. Found at depths of 3-230 feet, though commonly between 15-80 feet. Adults are territorial around caves and ledges, while juveniles inhabit sheltered coral heads."
@@ -34,9 +34,10 @@
   {
     "id": 5,
     "name": "Pufferfish",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Striped_puffer_%28Arothron_manilensis%29_%2843419852851%29.jpg",
+    "image": "https://douglasjreece.github.io/fish-facts/_5_puffer_fish.jpg",
     "scientificName": "Tetraodontidae",
     "description": "Unique fish species ranging 1-24 inches depending on variety. Contains tetrodotoxin, one of the most potent natural toxins. Can inflate body to twice normal size by swallowing water as a defense mechanism. Features fused teeth forming a beak-like structure for crushing prey.",
     "habitat": "Distributed worldwide in tropical and subtropical waters. Inhabits coral reefs, seagrass beds, and sandy bottoms at various depths up to 1,000 feet. Some species are exclusively marine, while others tolerate brackish or freshwater environments."
   }
+
 ]
